@@ -1,9 +1,9 @@
 # Stanley Wong
 ---
 ## Introduction
-- 👋 Hi, I’m Stanley
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning many things
+- Hi, I’m Stanley
+- I’m interested in reading
+- I’m currently learning many things
 - I like dumplings
 
 
